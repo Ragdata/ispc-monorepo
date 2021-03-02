@@ -1,0 +1,9 @@
+[submodule "ISPC-Kit"]
+	path = ISPC-Kit
+	url = git@github.com:Ragdata/ispc-kit.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:Ragdata/ispc-monorepo-docs.git
+[submodule "mod/util/bb-registry"]
+	path = mod/util/bb-registry
+	url = git@github.com:Ragdata/bb-registry.git
